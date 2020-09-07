@@ -1,4 +1,6 @@
 <?php
+   // Soal 1
+
    function perkalian($a, $b)
    {
       return $a * $b;
@@ -21,6 +23,8 @@
       <input type="text" name="val2" value="<?= $_POST['val2'] ?>">
       <input type="submit" value="Proses"  name="proses">
    </form>
+
+   <br>
 
    <?php
       if (isset($_POST['proses'])) {
