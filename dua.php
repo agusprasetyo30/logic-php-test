@@ -9,5 +9,6 @@
    // Memanggil helpers
    include "./Helpers/helpers.php";
 
-   echo hitungTahun(1000, 1200);
+   // Contoh Statis
+   echo hitungTahun(1000, 1200) . " Tahun";
 ?>

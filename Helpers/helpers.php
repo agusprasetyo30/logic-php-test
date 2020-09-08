@@ -1,5 +1,7 @@
 <?php
-   // Soal Nomer 2
+   ini_set("display_errors", 0);
+
+   // Helper untuk Soal Nomer 2
    if (!function_exists('hitungTahun')) {
       /**
        * Fungsi untuk menghitung jumlah penduduk pertahun
@@ -35,7 +37,7 @@
       }
    }
 
-   // Soal Nomer 3
+   // Helper untuk Soal Nomer 3
    if (!function_exists('terpecah')) {
       /**
       * Fungsi yang berfungsi untuk memproses dan menampilkan angka sesuai jumlahnya
@@ -94,10 +96,11 @@
       }
    }
 
-   // Soal Nomer 4
+   // Helper untuk Soal Nomer 4
    if (!function_exists('splitInteger')) {
       /**
        * Digunakan untuk mengambil karakter dari inputan dan merubah menjadi integer
+       * Digunakan pada contoh dinamis
        *
        * @param [type] $input
        * @return void
@@ -108,7 +111,9 @@
          $jml_karakter = strlen($input);
 
          for ($i=0; $i < $jml_karakter ; $i++) { 
-            array_push($a, (int)$input[$i]);
+            // Merubah data yang awalnya string menjadi integer
+            // Dan memasukan ke dalam array
+            array_push($a, (int)str_split($input)[$i]);
          }
 
          return $a;
