@@ -1,4 +1,6 @@
 <?php
+   // file tiga.php
+
    // Soal 3
    // Menjabarkan angka yang sudah diinputkan menjadi ribuan, ratusan, puluhan dll
 

@@ -1,4 +1,6 @@
 <?php
+   // file empat.php
+
    // Soal 4
    // Mengecek apakah array yang dimasukan termasuk ascending atau tidak
 

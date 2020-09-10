@@ -1,6 +1,7 @@
 <?php
-   // Soal 2
+   // file dua.php
 
+   // Soal 2
    // Jumlah penduduk kota 1000
    // Setiap tahun penduduk naik 2%
    // Setiap tahun akan ada 50 penduduk yang tinggal dan menetap di kota
