@@ -41,29 +41,43 @@ Untuk function dan helpers saya taruh di file `Helpers/helpers.php`
 
 1. Data ada di file `satu.php`
    <img src="./img/soal 1.png" width="100%">
-   <p style="text-align: center">Script satu.php</p>
+   <div align="center">
+      <p style="text-align: center">Script satu.php</p>
+   </div>
 
    <img src="./img/Output soal 1.png" >
-   <p style="text-align: center">Output</p>
+   <div align="center">
+      <p style="text-align: center">Output</p>
+   </div>
 
 2. Data ada di file `dua.php`
    <img src="./img/soal 2.png" >
-   <p style="text-align: center">Script dua.php</p>
+   <div align="center">
+      <p style="text-align: center">Script dua.php</p>
+   </div>
 
    <img src="./img/Output soal 2.png">
-   <p style="text-align: center">Output</p>
+   <div align="center">
+      <p style="text-align: center">Output</p>
+   </div>
 
 3. Data ada di file `tiga.php`
    <img src="./img/soal 3.png">
-   <p style="text-align: center">Script tiga.php</p>
+   <div align="center">
+      <p style="text-align: center">Script tiga.php</p>
+   <div>
 
    <img src="./img/Output soal 3.png">
-   <p style="text-align: center">Output</p>
+   <div align="center">
+      <p style="text-align: center">Output</p>
+   <div>
 
 4. Data ada di file `empat.php`
    <img src="./img/soal 4.png">
-   <p style="text-align: center">Script empat.php</p>
-
+   <div align="center">
+      <p style="text-align: center">Script empat.php</p>
+   </div>
+   
    <img src="./img/Output soal empat (true).png">
    <p style="text-align: center">Output jika jawaban TRUE</p>
    
