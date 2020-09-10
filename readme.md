@@ -43,29 +43,29 @@ Untuk function dan helpers saya taruh di file `Helpers/helpers.php`
    <img src="./img/soal 1.png" width="100%">
    <p style="text-align: center">Script satu.php</p>
 
-   <img src="./img/Output soal 1.png" width="100%">
+   <img src="./img/Output soal 1.png" >
    <p style="text-align: center">Output</p>
 
 2. Data ada di file `dua.php`
-   <img src="./img/soal 2.png" width="100%">
+   <img src="./img/soal 2.png" >
    <p style="text-align: center">Script dua.php</p>
 
-   <img src="./img/Output soal 2.png" width="100%">
+   <img src="./img/Output soal 2.png">
    <p style="text-align: center">Output</p>
 
 3. Data ada di file `tiga.php`
-   <img src="./img/soal 3.png" width="100%">
+   <img src="./img/soal 3.png">
    <p style="text-align: center">Script tiga.php</p>
 
-   <img src="./img/Output soal 3.png" width="100%">
+   <img src="./img/Output soal 3.png">
    <p style="text-align: center">Output</p>
 
 4. Data ada di file `empat.php`
-   <img src="./img/soal 4.png" width="100%">
+   <img src="./img/soal 4.png">
    <p style="text-align: center">Script empat.php</p>
 
-   <img src="./img/Output soal empat (true).png" width="100%">
+   <img src="./img/Output soal empat (true).png">
    <p style="text-align: center">Output jika jawaban TRUE</p>
    
-   <img src="./img/Output soal empat (false).png" width="100%">
+   <img src="./img/Output soal empat (false).png">
    <p style="text-align: center">Output jika jawaban FALSE</p>
